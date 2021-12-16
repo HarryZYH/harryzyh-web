@@ -1,8 +1,9 @@
-import Home from './views/Home.js'
+import Try from './pages/Try.js';
+import Home from './pages/Home.js'
 
 function App() {
   return (
-    <Home />
+    <Try />
   );
 }
 
