@@ -5,7 +5,7 @@ const Navbar = () => {
                 <div className="flex justify-between pt-6">
                     <div className="pl-6">
                         <a href="https:www.youtube.com">
-                            <img src="https://img.icons8.com/material-outlined/48/ffffff/death-insurance.png" alt="home" />
+                            <img src="https://img.icons8.com/material-outlined/48/ffffff/header.png" alt='home' />
                         </a>
                     </div>
 
